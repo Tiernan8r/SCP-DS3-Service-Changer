@@ -1,0 +1,5 @@
+C:\Users\TiernanS\Documents\Code\C# Projects\SCP DS3 Service Changer\SCP DS3 Service Changer\bin\Debug\SCP_DS3_Service_Changer.exe
+C:\Users\TiernanS\Documents\Code\C# Projects\SCP DS3 Service Changer\SCP DS3 Service Changer\bin\Debug\SCP_DS3_Service_Changer.pdb
+C:\Users\TiernanS\Documents\Code\C# Projects\SCP DS3 Service Changer\SCP DS3 Service Changer\obj\Debug\SCP DS3 Service Changer.csprojResolveAssemblyReference.cache
+C:\Users\TiernanS\Documents\Code\C# Projects\SCP DS3 Service Changer\SCP DS3 Service Changer\obj\Debug\SCP_DS3_Service_Changer.exe
+C:\Users\TiernanS\Documents\Code\C# Projects\SCP DS3 Service Changer\SCP DS3 Service Changer\obj\Debug\SCP_DS3_Service_Changer.pdb

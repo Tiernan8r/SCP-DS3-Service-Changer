@@ -1,0 +1,5 @@
+/home/tiernan/Documents/Code/C# Projects/SCP DS3 Service Changer/SCP DS3 Status/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/tiernan/Documents/Code/C# Projects/SCP DS3 Service Changer/SCP DS3 Status/bin/Debug/SCP_DS3_Status.pdb
+/home/tiernan/Documents/Code/C# Projects/SCP DS3 Service Changer/SCP DS3 Status/bin/Debug/SCP_DS3_Status.exe
+/home/tiernan/Documents/Code/C# Projects/SCP DS3 Service Changer/SCP DS3 Status/obj/Debug/SCP_DS3_Status.exe
+/home/tiernan/Documents/Code/C# Projects/SCP DS3 Service Changer/SCP DS3 Status/obj/Debug/SCP_DS3_Status.pdb
